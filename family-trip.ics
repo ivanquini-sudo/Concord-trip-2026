@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//New England Family Trip//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New England Family Trip
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:sienna-pickup@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T083000
+DTEND;TZID=America/New_York:20261003T091500
+SUMMARY:Pick up the Sienna
+LOCATION:Londonderry\, NH
+DESCRIPTION:2024 Toyota Sienna. Lucas must be present.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Pick up the Sienna in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:family-arrival@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T104500
+SUMMARY:Family arrives at MHT
+LOCATION:Manchester-Boston Regional Airport
+DESCRIPTION:Collect luggage\, load the Sienna\, light Dunkin' breakfast and snacks.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Family arrives at MHT in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bunker-hill@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T120000
+DTEND;TZID=America/New_York:20261003T124500
+SUMMARY:Bunker Hill
+LOCATION:Bunker Hill Monument\, Charlestown\, MA
+DESCRIPTION:Suggested/approximate timing. Suggested midday timing. Free.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bunker Hill in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uss-constitution@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T124500
+DTEND;TZID=America/New_York:20261003T134500
+SUMMARY:USS Constitution
+LOCATION:USS Constitution\, Charlestown Navy Yard\, Boston\, MA
+DESCRIPTION:Suggested/approximate timing. Suggested timing. Adults 18+ who want to board should bring physical government-issued photo ID.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:USS Constitution in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pizza-lunch@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T134500
+DTEND;TZID=America/New_York:20261003T144500
+SUMMARY:Pizza lunch
+LOCATION:Boston\, MA
+DESCRIPTION:Suggested/approximate timing. Budget in itinerary: $105 total / $15 per person.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Pizza lunch in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:old-north@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T144500
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:Old North Church
+LOCATION:Old North Church\, Boston\, MA
+DESCRIPTION:Suggested/approximate timing. Suggested afternoon timing.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Old North Church in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paul-revere@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T153000
+DTEND;TZID=America/New_York:20261003T161500
+SUMMARY:Paul Revere House
+LOCATION:Paul Revere House\, Boston\, MA
+DESCRIPTION:Suggested/approximate timing. Suggested afternoon timing. Saturday itinerary says to bring cash.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Paul Revere House in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:north-end-dinner@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261003T173000
+DTEND;TZID=America/New_York:20261003T190000
+SUMMARY:Dinner in the North End / Little Italy
+LOCATION:North End\, Boston\, MA
+DESCRIPTION:Suggested/approximate timing. Lucas is covering dinner. Budget in itinerary: $280 total / $40 per person.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dinner in the North End / Little Italy in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sunday-choice@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261004T080000
+DTEND;TZID=America/New_York:20261004T173000
+SUMMARY:Sunday choice day: Deerfield Fair or Salem
+LOCATION:New Hampshire / Salem\, MA
+DESCRIPTION:Option A: Deerfield Fair\, with Tuckaway Tavern lunch. Option B: Salem Haunted Biz Baz and Witch Dungeon Museum.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Sunday choice day: Deerfield Fair or Salem in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:portsmouth-dinner@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261004T180000
+DTEND;TZID=America/New_York:20261004T193000
+SUMMARY:Dinner in Portsmouth
+LOCATION:Portsmouth\, NH
+DESCRIPTION:Suggested/approximate timing. Dad is covering dinner. Budget in itinerary: $280 total / $40 per person.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dinner in Portsmouth in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:danny-class-mon@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261005T080000
+DTEND;TZID=America/New_York:20261005T123000
+SUMMARY:Danny in class
+LOCATION:Concord\, NH
+DESCRIPTION:Danny is in class until 12:30 PM.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Danny in class in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law-school-tour@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261005T123000
+DTEND;TZID=America/New_York:20261005T130000
+SUMMARY:Law school tour
+LOCATION:Concord\, NH
+DESCRIPTION:Suggested/approximate timing. Suggested timing after class.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Law school tour in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:works-lunch@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261005T130000
+DTEND;TZID=America/New_York:20261005T140000
+SUMMARY:Lunch at The Works Café
+LOCATION:42 N Main St\, Concord\, NH
+DESCRIPTION:Suggested/approximate timing. Budget in itinerary: $140 total / $20 per person.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lunch at The Works Café in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:state-house@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261005T140000
+DTEND;TZID=America/New_York:20261005T150000
+SUMMARY:New Hampshire State House tour
+LOCATION:New Hampshire State House\, Concord\, NH
+DESCRIPTION:Suggested/approximate timing. Free. Suggested afternoon timing.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:New Hampshire State House tour in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:main-street@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261005T150000
+DTEND;TZID=America/New_York:20261005T170000
+SUMMARY:Explore Concord Main Street shops
+LOCATION:Main Street\, Concord\, NH
+DESCRIPTION:Suggested/approximate timing. Suggested afternoon timing.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Explore Concord Main Street shops in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:concord-dinner@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261005T173000
+DTEND;TZID=America/New_York:20261005T190000
+SUMMARY:Dinner in Concord
+LOCATION:Concord\, NH
+DESCRIPTION:Suggested/approximate timing. Grandma is covering dinner. Budget in itinerary: $210 total / $30 per person.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dinner in Concord in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:danny-class-tue@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261006T080000
+DTEND;TZID=America/New_York:20261006T150000
+SUMMARY:Danny in class
+LOCATION:Concord\, NH
+DESCRIPTION:Danny is in class until 3:00 PM.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Danny in class in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fall-colors@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261006T090000
+DTEND;TZID=America/New_York:20261006T104500
+SUMMARY:Fall colors drive
+LOCATION:New Hampshire
+DESCRIPTION:Suggested/approximate timing. Family outing while Danny is in class.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Fall colors drive in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gould-hill@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261006T104500
+DTEND;TZID=America/New_York:20261006T120000
+SUMMARY:Gould Hill Farm apple picking
+LOCATION:Gould Hill Farm\, Contoocook\, NH
+DESCRIPTION:Suggested/approximate timing. $30 listed in the itinerary.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Gould Hill Farm apple picking in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-lunch@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261006T120000
+DTEND;TZID=America/New_York:20261006T124500
+SUMMARY:Lunch
+LOCATION:On the route
+DESCRIPTION:Suggested/approximate timing. Ivan is covering lunch.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lunch in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ben-jerrys@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261006T124500
+DTEND;TZID=America/New_York:20261006T151500
+SUMMARY:Ben & Jerry's
+LOCATION:Ben & Jerry's Factory\, Waterbury\, VT
+DESCRIPTION:Suggested/approximate timing. Source itinerary says about a 2-hour drive\, open 10 AM–7 PM\, and tour tickets are obtained online at 10 AM. Visiting without a tour is still possible.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ben & Jerry's in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:back-airbnb@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261006T153000
+DTEND;TZID=America/New_York:20261006T170000
+SUMMARY:Back at the Airbnb
+LOCATION:Hillsborough\, NH
+DESCRIPTION:Target return time from the itinerary.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Back at the Airbnb in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grill-dinner@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Grilling dinner at the Airbnb
+LOCATION:Hillsborough\, NH
+DESCRIPTION:Suggested/approximate timing. Dinner at the Airbnb.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Grilling dinner at the Airbnb in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:danny-class-wed@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261007T080000
+DTEND;TZID=America/New_York:20261007T123000
+SUMMARY:Danny in class
+LOCATION:Concord\, NH
+DESCRIPTION:Family free time while Danny is in class.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Danny in class in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:burger-lunch@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261007T123000
+DTEND;TZID=America/New_York:20261007T140000
+SUMMARY:Burger lunch
+LOCATION:Concord area\, NH
+DESCRIPTION:Suggested/approximate timing. Grandpa is covering lunch.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Burger lunch in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:head-mht@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261007T150000
+DTEND;TZID=America/New_York:20261007T154500
+SUMMARY:Head to MHT
+LOCATION:Manchester-Boston Regional Airport
+DESCRIPTION:Airport run.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Head to MHT in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:return-sienna@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T162000
+SUMMARY:Return the Sienna
+LOCATION:Manchester area\, NH
+DESCRIPTION:Lucas must be present for the return.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Return the Sienna in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flight-home@concord-trip-2026
+DTSTAMP:20261001T160000Z
+DTSTART;TZID=America/New_York:20261007T170000
+DTEND;TZID=America/New_York:20261007T171500
+SUMMARY:Flight departure
+LOCATION:Manchester-Boston Regional Airport
+DESCRIPTION:Flight home.\\nTrip guide: https://ivanquini-sudo.github.io/Concord-trip-2026/
+URL:https://ivanquini-sudo.github.io/Concord-trip-2026/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Flight departure in 30 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR

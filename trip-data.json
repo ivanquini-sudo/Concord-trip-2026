@@ -1,0 +1,262 @@
+{
+  "trip_name": "New England Family Trip",
+  "timezone": "America/New_York",
+  "start_date": "2026-10-03",
+  "end_date": "2026-10-07",
+  "website": "https://ivanquini-sudo.github.io/Concord-trip-2026/",
+  "siri_instructions": "Use current date/time in America/New_York. Explain what is happening now, then the next three scheduled items. Clearly say when a time is approximate. For weather and packing, direct the user to the live website unless the shortcut separately retrieves weather.",
+  "events": [
+    {
+      "id": "sienna-pickup",
+      "title": "Pick up the Sienna",
+      "start": "2026-10-03T08:30:00-04:00",
+      "end": "2026-10-03T09:15:00-04:00",
+      "location": "Londonderry, NH",
+      "approximate": false,
+      "notes": "2024 Toyota Sienna. Lucas must be present."
+    },
+    {
+      "id": "family-arrival",
+      "title": "Family arrives at MHT",
+      "start": "2026-10-03T10:00:00-04:00",
+      "end": "2026-10-03T10:45:00-04:00",
+      "location": "Manchester-Boston Regional Airport",
+      "approximate": false,
+      "notes": "Collect luggage, load the Sienna, light Dunkin' breakfast and snacks."
+    },
+    {
+      "id": "bunker-hill",
+      "title": "Bunker Hill",
+      "start": "2026-10-03T12:00:00-04:00",
+      "end": "2026-10-03T12:45:00-04:00",
+      "location": "Bunker Hill Monument, Charlestown, MA",
+      "approximate": true,
+      "notes": "Suggested midday timing. Free."
+    },
+    {
+      "id": "uss-constitution",
+      "title": "USS Constitution",
+      "start": "2026-10-03T12:45:00-04:00",
+      "end": "2026-10-03T13:45:00-04:00",
+      "location": "USS Constitution, Charlestown Navy Yard, Boston, MA",
+      "approximate": true,
+      "notes": "Suggested timing. Adults 18+ who want to board should bring physical government-issued photo ID."
+    },
+    {
+      "id": "pizza-lunch",
+      "title": "Pizza lunch",
+      "start": "2026-10-03T13:45:00-04:00",
+      "end": "2026-10-03T14:45:00-04:00",
+      "location": "Boston, MA",
+      "approximate": true,
+      "notes": "Budget in itinerary: $105 total / $15 per person."
+    },
+    {
+      "id": "old-north",
+      "title": "Old North Church",
+      "start": "2026-10-03T14:45:00-04:00",
+      "end": "2026-10-03T15:30:00-04:00",
+      "location": "Old North Church, Boston, MA",
+      "approximate": true,
+      "notes": "Suggested afternoon timing."
+    },
+    {
+      "id": "paul-revere",
+      "title": "Paul Revere House",
+      "start": "2026-10-03T15:30:00-04:00",
+      "end": "2026-10-03T16:15:00-04:00",
+      "location": "Paul Revere House, Boston, MA",
+      "approximate": true,
+      "notes": "Suggested afternoon timing. Saturday itinerary says to bring cash."
+    },
+    {
+      "id": "north-end-dinner",
+      "title": "Dinner in the North End / Little Italy",
+      "start": "2026-10-03T17:30:00-04:00",
+      "end": "2026-10-03T19:00:00-04:00",
+      "location": "North End, Boston, MA",
+      "approximate": true,
+      "notes": "Lucas is covering dinner. Budget in itinerary: $280 total / $40 per person."
+    },
+    {
+      "id": "sunday-choice",
+      "title": "Sunday choice day: Deerfield Fair or Salem",
+      "start": "2026-10-04T08:00:00-04:00",
+      "end": "2026-10-04T17:30:00-04:00",
+      "location": "New Hampshire / Salem, MA",
+      "approximate": false,
+      "notes": "Option A: Deerfield Fair, with Tuckaway Tavern lunch. Option B: Salem Haunted Biz Baz and Witch Dungeon Museum."
+    },
+    {
+      "id": "portsmouth-dinner",
+      "title": "Dinner in Portsmouth",
+      "start": "2026-10-04T18:00:00-04:00",
+      "end": "2026-10-04T19:30:00-04:00",
+      "location": "Portsmouth, NH",
+      "approximate": true,
+      "notes": "Dad is covering dinner. Budget in itinerary: $280 total / $40 per person."
+    },
+    {
+      "id": "danny-class-mon",
+      "title": "Danny in class",
+      "start": "2026-10-05T08:00:00-04:00",
+      "end": "2026-10-05T12:30:00-04:00",
+      "location": "Concord, NH",
+      "approximate": false,
+      "notes": "Danny is in class until 12:30 PM."
+    },
+    {
+      "id": "law-school-tour",
+      "title": "Law school tour",
+      "start": "2026-10-05T12:30:00-04:00",
+      "end": "2026-10-05T13:00:00-04:00",
+      "location": "Concord, NH",
+      "approximate": true,
+      "notes": "Suggested timing after class."
+    },
+    {
+      "id": "works-lunch",
+      "title": "Lunch at The Works Caf\u00e9",
+      "start": "2026-10-05T13:00:00-04:00",
+      "end": "2026-10-05T14:00:00-04:00",
+      "location": "42 N Main St, Concord, NH",
+      "approximate": true,
+      "notes": "Budget in itinerary: $140 total / $20 per person."
+    },
+    {
+      "id": "state-house",
+      "title": "New Hampshire State House tour",
+      "start": "2026-10-05T14:00:00-04:00",
+      "end": "2026-10-05T15:00:00-04:00",
+      "location": "New Hampshire State House, Concord, NH",
+      "approximate": true,
+      "notes": "Free. Suggested afternoon timing."
+    },
+    {
+      "id": "main-street",
+      "title": "Explore Concord Main Street shops",
+      "start": "2026-10-05T15:00:00-04:00",
+      "end": "2026-10-05T17:00:00-04:00",
+      "location": "Main Street, Concord, NH",
+      "approximate": true,
+      "notes": "Suggested afternoon timing."
+    },
+    {
+      "id": "concord-dinner",
+      "title": "Dinner in Concord",
+      "start": "2026-10-05T17:30:00-04:00",
+      "end": "2026-10-05T19:00:00-04:00",
+      "location": "Concord, NH",
+      "approximate": true,
+      "notes": "Grandma is covering dinner. Budget in itinerary: $210 total / $30 per person."
+    },
+    {
+      "id": "danny-class-tue",
+      "title": "Danny in class",
+      "start": "2026-10-06T08:00:00-04:00",
+      "end": "2026-10-06T15:00:00-04:00",
+      "location": "Concord, NH",
+      "approximate": false,
+      "notes": "Danny is in class until 3:00 PM."
+    },
+    {
+      "id": "fall-colors",
+      "title": "Fall colors drive",
+      "start": "2026-10-06T09:00:00-04:00",
+      "end": "2026-10-06T10:45:00-04:00",
+      "location": "New Hampshire",
+      "approximate": true,
+      "notes": "Family outing while Danny is in class."
+    },
+    {
+      "id": "gould-hill",
+      "title": "Gould Hill Farm apple picking",
+      "start": "2026-10-06T10:45:00-04:00",
+      "end": "2026-10-06T12:00:00-04:00",
+      "location": "Gould Hill Farm, Contoocook, NH",
+      "approximate": true,
+      "notes": "$30 listed in the itinerary."
+    },
+    {
+      "id": "tue-lunch",
+      "title": "Lunch",
+      "start": "2026-10-06T12:00:00-04:00",
+      "end": "2026-10-06T12:45:00-04:00",
+      "location": "On the route",
+      "approximate": true,
+      "notes": "Ivan is covering lunch."
+    },
+    {
+      "id": "ben-jerrys",
+      "title": "Ben & Jerry's",
+      "start": "2026-10-06T12:45:00-04:00",
+      "end": "2026-10-06T15:15:00-04:00",
+      "location": "Ben & Jerry's Factory, Waterbury, VT",
+      "approximate": true,
+      "notes": "Source itinerary says about a 2-hour drive, open 10 AM\u20137 PM, and tour tickets are obtained online at 10 AM. Visiting without a tour is still possible."
+    },
+    {
+      "id": "back-airbnb",
+      "title": "Back at the Airbnb",
+      "start": "2026-10-06T15:30:00-04:00",
+      "end": "2026-10-06T17:00:00-04:00",
+      "location": "Hillsborough, NH",
+      "approximate": false,
+      "notes": "Target return time from the itinerary."
+    },
+    {
+      "id": "grill-dinner",
+      "title": "Grilling dinner at the Airbnb",
+      "start": "2026-10-06T17:30:00-04:00",
+      "end": "2026-10-06T19:00:00-04:00",
+      "location": "Hillsborough, NH",
+      "approximate": true,
+      "notes": "Dinner at the Airbnb."
+    },
+    {
+      "id": "danny-class-wed",
+      "title": "Danny in class",
+      "start": "2026-10-07T08:00:00-04:00",
+      "end": "2026-10-07T12:30:00-04:00",
+      "location": "Concord, NH",
+      "approximate": false,
+      "notes": "Family free time while Danny is in class."
+    },
+    {
+      "id": "burger-lunch",
+      "title": "Burger lunch",
+      "start": "2026-10-07T12:30:00-04:00",
+      "end": "2026-10-07T14:00:00-04:00",
+      "location": "Concord area, NH",
+      "approximate": true,
+      "notes": "Grandpa is covering lunch."
+    },
+    {
+      "id": "head-mht",
+      "title": "Head to MHT",
+      "start": "2026-10-07T15:00:00-04:00",
+      "end": "2026-10-07T15:45:00-04:00",
+      "location": "Manchester-Boston Regional Airport",
+      "approximate": false,
+      "notes": "Airport run."
+    },
+    {
+      "id": "return-sienna",
+      "title": "Return the Sienna",
+      "start": "2026-10-07T16:00:00-04:00",
+      "end": "2026-10-07T16:20:00-04:00",
+      "location": "Manchester area, NH",
+      "approximate": false,
+      "notes": "Lucas must be present for the return."
+    },
+    {
+      "id": "flight-home",
+      "title": "Flight departure",
+      "start": "2026-10-07T17:00:00-04:00",
+      "end": "2026-10-07T17:15:00-04:00",
+      "location": "Manchester-Boston Regional Airport",
+      "approximate": false,
+      "notes": "Flight home."
+    }
+  ]
+}
