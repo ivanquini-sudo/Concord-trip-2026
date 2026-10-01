@@ -1,0 +1,10 @@
+{
+  "name": "New England Family Trip",
+  "short_name": "Family Trip",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf1",
+  "theme_color": "#17324d",
+  "description": "Family itinerary for the New England trip, October 3–7, 2026.",
+  "icons": []
+}
